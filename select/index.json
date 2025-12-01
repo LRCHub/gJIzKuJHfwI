@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "人生の扉 [Jinsei-no-Tobira] / 竹内まりや [Mariya Takeuchi] TBS系ドラマ「肩ごしの恋人」主題歌　Unplugged cover by Ai Ninomiya",
+  "base_artist": "Ai Ninomiya",
+  "createdAt": "2025-12-01T23:26:10.007195Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生の扉",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/01_人生の扉_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人生の扉",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/02_人生の扉_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人生の扉",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/03_人生の扉_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人生の扉",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/04_人生の扉_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人生の扉 (Inst)",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/05_人生の扉_(Inst)_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "人生の扉",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/06_人生の扉_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "人生の扉 [Jinsei no Tobira]",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/07_人生の扉_[Jinsei_no_Tobira]_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生の扉",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_01_人生の扉_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "人生の扉",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_02_人生の扉_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "人生の扉",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_03_人生の扉_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "人生の扉",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_04_人生の扉_竹内_まりや.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "人生の扉",
+      "artist": "竹内 まりや",
+      "has_synced": false,
+      "path": "select/pl_05_人生の扉_竹内_まりや.txt"
+    }
+  ]
+}
